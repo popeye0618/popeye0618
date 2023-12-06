@@ -7,10 +7,7 @@
   
  <br/>
  <br/>
-  
-####  :clipboard: Once I've Used 
-  
-   <br/>
+
  
 #### :pencil2: Study log
  
