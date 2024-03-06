@@ -10,6 +10,6 @@
  
 #### :pencil2: Study log
 <br/>
-[![POPEYE's GitHub stats](https://github-readme-stats.vercel.app/api?username=popeye0618)](https://github.com/popeye0618/github-readme-stats)
+![POPEYE's GitHub stats](https://github-readme-stats.vercel.app/api?username=popeye0618&show_icons=true&theme=radical)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=popeye0618&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff,theme=radical">
 </div>
