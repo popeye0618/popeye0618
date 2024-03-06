@@ -5,9 +5,7 @@
 ####  :wave: Welcome my github profile !
 
   
- <br/>
- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=popeye0617)](https://solved.ac/popeye0617)
- <br/>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=popeye0617)](https://solved.ac/popeye0617)
 
  
 #### :pencil2: Study log
