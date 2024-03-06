@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=fff&height=180&section=header&text=POPEYE&fontSize=25"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=POPEYE&fontSize=90" />
   
 ####  :wave: Welcome my github profile !
 
