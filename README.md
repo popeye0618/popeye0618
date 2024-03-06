@@ -9,6 +9,6 @@
 #### :pencil2: Study log
 
 ![POPEYE's GitHub stats](https://github-readme-stats.vercel.app/api?username=popeye0618&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popeye0618)](https://github.com/popeye0618/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popeye0618&theme=radical)](https://github.com/popeye0618/github-readme-stats)
 
 </div>
