@@ -34,7 +34,7 @@
         <img src="https://img.shields.io/badge/redis-FF4438?style=flat&logo=redis&logoColor=white">
         <br>
         About Project: 
-        <a href="https://github.com/COMAtching"><strong>Ver3(latest)</strong></a>
+        <a href="https://github.com/COMAtching"><strong>Comatching3</strong></a>
     </div>
 </div>
 </br>
@@ -55,7 +55,7 @@
         <img src="https://img.shields.io/badge/redis-FF4438?style=flat&logo=redis&logoColor=white">
         <br>
         About Project: 
-        <a href="https://github.com/COMAtching/COMAtching_FC_BE">Description</a> 
+        <a href="https://github.com/COMAtching/COMAtching_FC_BE">BucheonFC</a> 
     </div>
 </div>
 </br>
