@@ -41,7 +41,7 @@
 
 | Project | Description & Tech |
 | :--- | :--- |
-| <div align="center"><img src="https://github.com/user-attachments/assets/5de1c319-6605-4645-912c-1dd8f2214df1" width="60"/><br/>**Recorday**</div> | **온라인 인생네컷 서비스**<br/>Back-End / 유연한 인증 시스템 설계<br/>`Spring Boot` `Spring Security` `Spring Batch` `MySQL` `Redis` `Docker`<br/>🔗 [Service Link](https://recorday.vercel.app) \| [GitHub](https://github.com/RecordayDev) |
+| <div align="center"><img src="https://github.com/user-attachments/assets/5de1c319-6605-4645-912c-1dd8f2214df1" width="60"/><br/>**Harucut**</div> | **온라인 인생네컷 서비스**<br/>Back-End / 유연한 인증 시스템 설계<br/>`Spring Boot` `Spring Security` `Spring Batch` `MySQL` `Redis` `Docker`<br/>🔗 [Service Link](https://harucut.com) \| [GitHub](https://github.com/Harucut) |
 | <div align="center"><img src="https://github.com/user-attachments/assets/5bce90f1-f7dd-42c5-a698-3059649f7204" width="60"/><br/>**COMAtching**</div> | **대학생 AI 이성 매칭 서비스**<br/>Back-End & PM / 실서비스 운영 및 성능 최적화<br/>`Spring Boot` `MySQL` `Redis` `AWS`<br/>🔗 [Service Link](https://comatching.site) \| [GitHub](https://github.com/COMAtching) |
 
 <br/>
