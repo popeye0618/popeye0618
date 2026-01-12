@@ -1,18 +1,14 @@
 <div align="center">
   <h1 style="font-size: 3rem; font-weight: bold; margin-bottom: 0;">POPEYE</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Backend+Developer;Architecting+Stable+Systems;Bridging+Tech+%26+Business" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Backend+Developer;Architecting+Stable+Systems" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 ### 🚀 About Me
-> **"코드를 넘어 문제를 해결하고, 기술을 서비스 가치로 전환합니다"**
-
-**서비스의 성장은 안정적인 아키텍처 위에서 이루어진다**고 생각합니다. 단순히 기능을 만드는 데 그치지 않고 실제 사용자의 목소리를 반영해 최적의 솔루션을 찾아내는 데 집중합니다. 상황에 맞는 기술 선택과 관심사의 명확한 분리를 통해 사용자에게 끊김 없고 신뢰할 수 있는 서비스를 제공하는 데 주력하고 있습니다.
-
-저에게 개발은 **기술적 해법을 가치로 연결하는 과정**입니다. 도메인을 깊이 있게 탐구하여 기술 용어를 비즈니스 언어로 치환하고 팀원들과의 긴밀한 소통을 통해 서비스의 방향성을 일치시키는 데 강점이 있습니다. 이러한 이해를 바탕으로 기술을 실제 서비스 가치로 빠르게 전환하는 개발자로 성장하고 있습니다.
+백엔드 개발자 천승환입니다.
 
 <br/>
 
